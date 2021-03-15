@@ -1,13 +1,13 @@
 # Sprinkler_Project
 
 
-Introduction \n
+Introduction
 It is considered "n" sprinklers installed to wet a horizontal strip of grass that is L meters long and l meters wide. Each sprinkler is centered vertically on the respective grass strip. For each sprinkler we know:
 i) its position as the distance from the left end of the line that crosses horizontally the middle of the grass strip
 ii) its operating radius.
 
 
-Task \n
+Task
 Determine the minimum number of sprinklers that must be turned on to water the entire strip of grass.
 Implement 2 different algorithms, in C and Python, as well as the corresponding data generators.
 
