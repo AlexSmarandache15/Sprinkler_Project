@@ -1,4 +1,4 @@
-# Sprinkler_Project
+# Sprinklers_Project
 
 
 Introduction<br />
