@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1587229645 source:d:\desktop\aspersoare - copy\homeworkv1c\main.c
+	<stdio.h>
+	"sorting.h"
+	<time.h>
+	"utils.h"
+
+1587208707 d:\desktop\aspersoare - copy\homeworkv1c\sorting.h
+	<stdio.h>
+
+1587208835 d:\desktop\aspersoare - copy\homeworkv1c\utils.h
+	<stdio.h>
+	"sorting.h"
+	<math.h>
+
+1587208636 source:d:\desktop\aspersoare - copy\homeworkv1c\sorting.c
+	"sorting.h"
+
+1587235028 source:d:\desktop\aspersoare - copy\homeworkv1c\utils.c
+	"utils.h"
+	"sorting.h"
+	<math.h>
+
+1587674821 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm2c\main.c
+	<stdio.h>
+	"sorting.h"
+	<time.h>
+	"utils.h"
+	"read.h"
+
+1587208707 d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm2c\sorting.h
+	<stdio.h>
+
+1587674677 d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm2c\utils.h
+	<stdio.h>
+	"sorting.h"
+	<math.h>
+
+1587208636 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm2c\sorting.c
+	"sorting.h"
+
+1587854858 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm2c\utils.c
+	"utils.h"
+	<math.h>
+
+1587675564 d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm2c\read.h
+	<stdio.h>
+
+1587675530 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm2c\read.c
+	"read.h"
+
+1587208636 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm2c\sorting.c
+	"sorting.h"
+
+1587208707 d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm2c\sorting.h
+	<stdio.h>
+
+1587208636 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm2_c\sorting.c
+	"sorting.h"
+
+1587208707 d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm2_c\sorting.h
+	<stdio.h>
+
+1589328425 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm2_c\read.c
+	"read.h"
+
+1587675564 d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm2_c\read.h
+	<stdio.h>
+
+1589989275 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm2_c\utils.c
+	"utils.h"
+	<math.h>
+
+1587674677 d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm2_c\utils.h
+	<stdio.h>
+	"sorting.h"
+	<math.h>
+
+1589814552 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm2_c\main.c
+	<stdio.h>
+	"sorting.h"
+	<time.h>
+	"utils.h"
+	"read.h"
+

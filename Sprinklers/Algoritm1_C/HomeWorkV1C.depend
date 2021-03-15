@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1586962305 source:d:\desktop\selectareaaspersoarelor1\homeworkv2c\utils.c
+	"utils.h"
+	<math.h>
+
+1586961510 d:\desktop\selectareaaspersoarelor1\homeworkv2c\utils.h
+	<stdio.h>
+	<math.h>
+
+1586961536 source:d:\desktop\selectareaaspersoarelor1\homeworkv2c\main.c
+	<stdio.h>
+	<math.h>
+	"utils.h"
+
+1587415651 source:d:\desktop\aspersoare\homeworkv2c\utils.c
+	"utils.h"
+	<math.h>
+
+1587415648 d:\desktop\aspersoare\homeworkv2c\utils.h
+	<stdio.h>
+	<math.h>
+
+1587415678 source:d:\desktop\aspersoare\homeworkv2c\main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	"utils.h"
+	"read.h"
+
+1587415712 d:\desktop\aspersoare\homeworkv2c\read.h
+	<stdio.h>
+
+1587415578 source:d:\desktop\aspersoare\homeworkv2c\read.c
+	"read.h"
+	<math.h>
+
+1587476102 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm1c\main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	"utils.h"
+	"read.h"
+
+1587674396 d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm1c\utils.h
+	<stdio.h>
+	<math.h>
+
+1587415712 d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm1c\read.h
+	<stdio.h>
+
+1587476110 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm1c\utils.c
+	"utils.h"
+	<math.h>
+
+1587674367 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm1c\read.c
+	"read.h"
+	<math.h>
+
+1587415578 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm1\read.c
+	"read.h"
+	<math.h>
+
+1587415712 d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm1\read.h
+	<stdio.h>
+
+1587475150 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm1\main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	"utils1.h"
+	"read.h"
+
+1587415648 d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\algoritm1\utils1.h
+	<stdio.h>
+	<math.h>
+
+1587674367 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm1c\read.c
+	"read.h"
+	<math.h>
+
+1587415712 d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm1c\read.h
+	<stdio.h>
+
+1589141999 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm1c\main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	"utils.h"
+	"read.h"
+
+1587674396 d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm1c\utils.h
+	<stdio.h>
+	<math.h>
+
+1589142860 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm1c\utils.c
+	"utils.h"
+	<math.h>
+
+1590006710 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm1_c\main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	"utils.h"
+	"read.h"
+
+1589989014 d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm1_c\utils.h
+	<stdio.h>
+	<math.h>
+
+1589989014 d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm1_c\read.h
+	<stdio.h>
+
+1589989014 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm1_c\read.c
+	"read.h"
+	<math.h>
+
+1589989014 source:d:\desktop\pa-cr1.2b-smarandache-alexandru-course-assigment\p1\algoritm1_c\utils.c
+	"utils.h"
+	<math.h>
+
